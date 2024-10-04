@@ -9,3 +9,6 @@
 
 If you are looking for my original Linux framebuffer demo
 [click here](https://github.com/targetdisk/targetdisk-linuxfb).
+
+My resume can be found in Markdown [here](https://github.com/targetdisk/resume)
+or as a PDF [here](https://github.com/targetdisk/resume/releases/latest).
